@@ -1,0 +1,46 @@
+Task 1
+
+1.Concepts of git explaining various terms
+1. Repository
+It is a directory that stores all the files, folders and contents needed for your project. It can be local-on your computer or remote-on a server.
+2. Forking
+It is creating a copy of a repository which allow us to make changes without affecting the original repository.
+3.Cloning
+It is the process of creating a copy of remote repository on your local system.
+4.Merge
+It helps to combine the changes from one branch into main branch.
+5.Branch
+It is a separate version of the repository which allow us to work on different features without affecting the main codebase.
+6.Pull Request
+Pull requests let you tell others about changes you've pushed to a branch in a repository.
+
+2.Write basic commands of git.
+1.git config - lets you get and set configuration variables that control all aspects of how git looks and operate.
+2.git init – the command is used to initialize a new git repository to work on a new project.
+3.git clone – to create a working copy of an existing repository to a local system.
+4.git add – the command is used to add all the local changes of your working copy to staging area so that those changes can be committed to your local repository.
+5.git commit – the command is used to record changes made to the local repository.
+6.git branch – the command is used to determine what branch the local repository is on.
+7.git push – the command is used to transfer the commits or pushing the contents from a local repository to a remote repository.
+8.git pull – the command is used to get updates from the remote repository.
+9.git merge – the command is used to combine data created by git branch and integrate them into single branch.
+3.Concepts on GITHUB, GitLab and BitBucket
+GITHUB
+It is a web-based platform for version control using git. It provides a collaborative environment for software developers to host and review codes, manage projects and facilitates team collaborations. It is a widely used platform for both open source and private software development projects.
+GITLAB
+It is a web-based got repository that provides free open and private repositories, issue – following capabilities. It is a complete DevOps platform that enables professionals to perform all the task in a projects - from project planning and source code management to monitoring and security.
+BITBUCKET
+It is the repository management tool that is specially built for expert teams and professionals. It is also called as git repository management software and is a central hub for handling all the git repository. It allows users to do basic git operations such as reviewing or merging code. BitBucket is focused on private repositories while github is a better fit for public repositories.
+4.Industrial practices of using git.
+* Make incremental , small changes
+* Develop using branches
+* Write descriptive commit messages
+* Obtain feedback through code review
+* Identify a branching strategy
+5.Cloning a repo to local
+To clone a Git repository to your local machine, first, copy the repository URL from the hosting platform such as GitHub or GitLab. Open a terminal window and navigate to the directory where you want to store the local copy. Use the git clone command followed by the repository URL to initiate the cloning process. Once the cloning is complete, you will have a local copy of the repository in the specified directory. You can navigate into the cloned directory using the cd command and start working on the project locally, with the ability to make changes and synchronize with the remote repository when needed.
+6. Resources
+GitHub docs
+Stack overflow
+Geeksforgeeks
+Chatgpt
